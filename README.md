@@ -7,7 +7,7 @@ Este projeto foi desenvolvido com o intuito de consolidar meus estudos de __Reac
 
 Neste projeto pessoal busquei construir uma loja online utilizando a API do mercado livre de modo que o usuário pudesse selecionar categoria de produtos ou buscar por um produto ou marca específicos, visualizando a sua descrição, especificações e detalhes referentes a preços e frete. A aplicação possui quatro páginas distintas, uma na qual se pode fazer buscas e navegar pelos produtos, outra com os detalhes do produto selecionado, uma terceira para visualizar os items do carrinho e um resumo da compra e finalmente uma página de checkout.
 
-[Experimente a aplicação clicando aqui](https://jadsoncerqueira.github.io/store/)
+## [Experimente a aplicação clicando aqui](https://jadsoncerqueira.github.io/store/)
 
 ## Detalhes do desenvolvimento
 Toda a aplicação foi construída com __React__ versão 18 com componentes funcionais e gerenciamento dos dados da aplicação é feito através do __Context API__, as informações do carrinho são salvas localmente no navegador para persistir as informações do carrinho de compras entre as sessões. O design foi idealizado por mim e a estilização foi feita sem nenhum framework com a finalidade de praticar CSS.
