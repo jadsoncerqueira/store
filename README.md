@@ -71,7 +71,7 @@ Se você tiver uma sugestão para melhorar isso, faça um fork do repositório e
 
 ## Contato
 
-Email: `brunofernpessoa@gmail.com`
+Email: `jadsoncerqueira97@gmail.com`
 
 [LinkedIn](https://www.linkedin.com/in/jadsoncerqueira/)
 
