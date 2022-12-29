@@ -73,6 +73,6 @@ Se você tiver uma sugestão para melhorar isso, faça um fork do repositório e
 
 Email: `brunofernpessoa@gmail.com`
 
-[LinkedIn](https://www.linkedin.com/in/brunofpessoa/)
+[LinkedIn](https://www.linkedin.com/in/jadsoncerqueira/)
 
-[GitHub](https://github.com/brunofpessoa/)
+[GitHub](https://github.com/jadsoncerqueira/)
